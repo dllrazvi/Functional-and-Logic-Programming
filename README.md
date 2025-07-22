@@ -9,44 +9,44 @@ The course was structured into two main parts:
 
 - Practiced working with:
 
--- Lists, atoms, symbols
+  - Lists, atoms, symbols
 
--- Higher-order functions and lambda expressions
+  - Higher-order functions and lambda expressions
 
--- Tail recursion and efficient recursive patterns
+  - Tail recursion and efficient recursive patterns
 
--- Basic functional operations: mapcar, reduce, filter, member, append
+  - Basic functional operations: mapcar, reduce, filter, member, append
 
 - Exercises included:
 
--- List manipulation (filtering, mapping, sorting)
+  - List manipulation (filtering, mapping, sorting)
 
--- Recursive numerical algorithms (factorial, Fibonacci)
+  - Recursive numerical algorithms (factorial, Fibonacci)
 
--- Processing nested lists and tree-like structures
+  - Processing nested lists and tree-like structures
 
 ### 2. Logic Programming with Prolog
 - Introduced declarative programming through Prolog
 
 - Covered:
 
--- Defining facts and rules
+  - Defining facts and rules
 
--- Recursive rule building
+  - Recursive rule building
 
--- List processing via pattern matching
+  - List processing via pattern matching
 
--- Backtracking and unification mechanisms
+  - Backtracking and unification mechanisms
 
 - Exercises included:
 
--- Solving logical puzzles
+  - Solving logical puzzles
 
--- Implementing relations (e.g., family trees)
+  - Implementing relations (e.g., family trees)
 
--- List-based operations (e.g., length, append, reverse)
+  - List-based operations (e.g., length, append, reverse)
 
--- Simple AI-like logical deductions
+  - Simple AI-like logical deductions
 
 ## Skills Gained
 - Mastered recursion-heavy thinking for solving problems functionally
